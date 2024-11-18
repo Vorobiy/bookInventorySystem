@@ -5,6 +5,10 @@ The **Book Shop Inventory Management System** is a Python-based desktop applicat
 
 ---
 
+[![Youtube video](https://cdn.prod.website-files.com/65fabbf8f7f7323a634a308c/6697a8762cb0c771d20de2c8_Group%201171275865.svg)](https://youtu.be/lN5jc3w8RbQ?si=5FyvFxQDi9XhQG5h)
+
+---
+
 ## Features
 - **Add Books**:
   - Enter details such as title, author, genre, publication date, and ISBN.
@@ -26,3 +30,4 @@ The **Book Shop Inventory Management System** is a Python-based desktop applicat
     - Title
     - Author
     - Publication Date.
+   
